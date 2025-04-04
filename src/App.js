@@ -66,7 +66,7 @@ function App() {
         </div>
 
         <div class="section">
-            <h2>Certifications</h2>
+            <h2>kkjhgkhgk</h2>
             <ul class="cert-list">
                 <li>Java Developer Certification - Udemy</li>
                 <li>Spring Boot Professional - Udemy</li>
